@@ -28,7 +28,7 @@ Pro výrobu víček jsou použity 3D tiskárny, které zajistí rychlou a přesn
 Pro připojení víčka k mikrokontroléru micro:bit postačuje nasazení víčka na horní část micro:bitu tak, aby se víčko spojilo s Battery Case.
 
 ## Postup realizace
-**Stáhnutí souborů (SLDPRT):** Začněte tím, že si stáhnete požadované soubory ve formátu SLDPRT. Tyto soubory by měly obsahovat 3D modely víček, které chcete vytisknout. Můžete je nalézt [zde]:(https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/sldprt%20realizace).
+**Stáhnutí souborů (SLDPRT):** Začněte tím, že si stáhnete požadované soubory ve formátu SLDPRT. Tyto soubory by měly obsahovat 3D modely víček, které chcete vytisknout. Můžete je nalézt [zde](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/sldprt%20realizace).
 
 ## Závěr
 
