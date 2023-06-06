@@ -14,3 +14,8 @@ Cílem projektu je vytvořit personalizovaná víčka, která se umístí na mik
 **Robustní ochrana:** Víčka jsou navržena tak, aby poskytovala robustní ochranu pro mikrokontrolér micro:bit. Víčka jsou používána k zajištění hygieny, bezpečnosti, čerstvosti nebo ochrany před nežádoucími vnějšími vlivy.
 
 **Odlišení:** Další funkcí víček jako odlišení je poskytovat vizuální indikaci. Víčka mohou být vyrobená z různých barev, tvarů nebo vzorů, aby se odlišily od jiných víček nebo identifikovaly určitý druh obsahu. Tímto způsobem pomáhají spotřebitelům nebo uživatelům rychle rozpoznat správný produkt.
+
+### 3. Návrh a výroba víček ###
+Víčka budou navržena tak, aby byla kompatibilní s mikrokontrolérem micro:bit a umožňovala snadné připojení a odpojení. Víčka budou vyrobená z odolného materiálu a budou esteticky přitažlivá.
+
+Pro výrobu víček budou použity 3D tiskárny, které zajistí rychlou a přesnou výrobu jednotlivých dílů. Každé víčko bude pouze jedna součástkan bez dalších rozšíření.
