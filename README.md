@@ -33,6 +33,7 @@ Pro připojení víčka k mikrokontroléru micro:bit postačuje nasazení víčk
 **2. Vložení do sliceru:** Slicer je software, který převede vaše 3D modely do instrukcí po vrstvách pro 3D tiskárnu. Otevřete svůj slicer software a naimportujte soubory SLDPRT do programu. Nastavte požadované parametry, jako je rozlišení tisku, tloušťka vrstvy, infill (výplň) a podobně. Slicer vytvoří G-kód, což je sada instrukcí pro 3D tiskárnu, jak tisknout váš objekt.
 
 **3. 3D tisk:** Poté, co máte vygenerovaný G-kód ze sliceru, připojte svou 3D tiskárnu k počítači nebo použijte paměťovou kartu nebo jiné médium, na které můžete uložit G-kód. Na tiskárně vyberte soubor nebo načtěte G-kód a spusťte tisk. Tiskárna začne postupně vrstvu po vrstvě vytvářet váš objekt podle instrukcí z G-kódu.
+Tisk jednoho víčka by při správném nastavení měl trvat přibližně 45 minut.
 
 ## Závěr
 
