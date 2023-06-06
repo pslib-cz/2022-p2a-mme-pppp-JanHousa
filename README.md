@@ -5,7 +5,7 @@
 
 Tato dokumentace popisuje projekt personalizovaných víček pro mikrokontrolér micro:bit. Projekt se zaměřuje na vytvoření víček, která umožní uživatelům personalizovat a rozšířit funkčnost jejich micro:bitu.
 
-## **Popis projektu**
+## Popis projektu
 
 ### 1. Cíl projektu
 Cílem projektu je vytvořit personalizovaná víčka, která se umístí na mikrokontrolér micro:bit a umožní uživatelům přizpůsobit vzhled a funkčnost svého micro:bitu.
@@ -16,14 +16,14 @@ Cílem projektu je vytvořit personalizovaná víčka, která se umístí na mik
 **Odlišení:** Další funkcí víček jako odlišení je poskytovat vizuální indikaci. Víčka mohou být vyrobená z různých barev, tvarů nebo vzorů, aby se odlišily od jiných víček nebo identifikovaly určitý druh obsahu. Tímto způsobem pomáhají spotřebitelům nebo uživatelům rychle rozpoznat správný produkt.
 
 ### 3. Návrh a výroba víček
-Víčka budou navržena tak, aby byla kompatibilní s mikrokontrolérem micro:bit a umožňovala snadné připojení a odpojení. Víčka budou vyrobená z odolného materiálu a budou esteticky přitažlivá.
+Víčka jsou navržena tak, aby byla kompatibilní s mikrokontrolérem micro:bit a umožňovala snadné připojení a odpojení. Víčka jsou vyrobená z odolného materiálu a budou esteticky přitažlivá.
 
-Pro výrobu víček budou použity 3D tiskárny, které zajistí rychlou a přesnou výrobu jednotlivých dílů. Každé víčko bude pouze jedna součástka bez dalších rozšíření.
+Pro výrobu víček jsou použity 3D tiskárny, které zajistí rychlou a přesnou výrobu jednotlivých dílů. Každé víčko je pouze jedna součástka bez dalších rozšíření.
 
 ## Použití
 
 ### Připojení víčka k micro:bitu
-Pro připojení víčka k mikrokontroléru micro:bit bude postačovat nasazení víčka na horní část micro:bitu tak, aby se víčko spojilo s Battery Case.
+Pro připojení víčka k mikrokontroléru micro:bit postačuje nasazení víčka na horní část micro:bitu tak, aby se víčko spojilo s Battery Case.
 
 ## Závěr
 
