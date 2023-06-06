@@ -16,6 +16,8 @@ Cílem projektu je vytvořit personalizovaná víčka, která se umístí na mik
 **Odlišení:** Další funkcí víček jako odlišení je poskytovat vizuální indikaci. Víčka mohou být vyrobená z různých barev, tvarů nebo vzorů, aby se odlišily od jiných víček nebo identifikovaly určitý druh obsahu. Tímto způsobem pomáhají spotřebitelům nebo uživatelům rychle rozpoznat správný produkt.
 
 ### 3. Návrh a výroba víček
+![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/assets/53347386/2956be94-d932-4d4f-af16-823b7012e6fd)
+
 Víčka jsou navržena tak, aby byla kompatibilní s mikrokontrolérem micro:bit a umožňovala snadné připojení a odpojení. Víčka jsou vyrobená z odolného materiálu a budou esteticky přitažlivá.
 
 Pro výrobu víček jsou použity 3D tiskárny, které zajistí rychlou a přesnou výrobu jednotlivých dílů. Každé víčko je pouze jedna součástka bez dalších rozšíření.
