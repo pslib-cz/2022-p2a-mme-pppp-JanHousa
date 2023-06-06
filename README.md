@@ -27,6 +27,9 @@ Pro výrobu víček jsou použity 3D tiskárny, které zajistí rychlou a přesn
 ### Připojení víčka k micro:bitu
 Pro připojení víčka k mikrokontroléru micro:bit postačuje nasazení víčka na horní část micro:bitu tak, aby se víčko spojilo s Battery Case.
 
+## Postup realizace
+**Stáhnutí souborů (SLDPRT):** Začněte tím, že si stáhnete požadované soubory ve formátu SLDPRT. Tyto soubory by měly obsahovat 3D modely víček, které chcete vytisknout. Můžete je nalézt [zde]: http://www.reddit.com.
+
 ## Závěr
 
 Personalizovaná víčka pro mikrokontrolér micro:bit přinášejí uživatelům možnost přizpůsobit a rozšířit funkčnost jejich micro:bitu. Projekt je založen na snadném připojení víček a umožňuje uživatelům tvořit a experimentovat s mikrokontrolérem micro:bit.
