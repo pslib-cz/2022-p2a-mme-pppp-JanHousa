@@ -18,4 +18,4 @@ Cílem projektu je vytvořit personalizovaná víčka, která se umístí na mik
 ### 3. Návrh a výroba víček ###
 Víčka budou navržena tak, aby byla kompatibilní s mikrokontrolérem micro:bit a umožňovala snadné připojení a odpojení. Víčka budou vyrobená z odolného materiálu a budou esteticky přitažlivá.
 
-Pro výrobu víček budou použity 3D tiskárny, které zajistí rychlou a přesnou výrobu jednotlivých dílů. Každé víčko bude pouze jedna součástkan bez dalších rozšíření.
+Pro výrobu víček budou použity 3D tiskárny, které zajistí rychlou a přesnou výrobu jednotlivých dílů. Každé víčko bude pouze jedna součástka bez dalších rozšíření.
