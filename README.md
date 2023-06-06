@@ -22,5 +22,5 @@ Pro výrobu víček budou použity 3D tiskárny, které zajistí rychlou a přes
 
 ## Použití
 
-### 1. Připojení víčka k micro:bitu
+### Připojení víčka k micro:bitu
 Pro připojení víčka k mikrokontroléru micro:bit bude postačovat nasazení víčka na horní část micro:bitu tak, aby se víčko spojilo s Battery Case.
