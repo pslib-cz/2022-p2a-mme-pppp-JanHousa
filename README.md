@@ -15,7 +15,7 @@ This documentation describes the design of personalized case lids for the micro:
 ## Usage
 ### Connecting the case to the micro:bit
 To connect the case lid to the micro:bit microcontroller, simply place the case lid on top of the micro:bit battery case so that the case lid connects to the battery case.
-![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/e58f630c5d1c71b77d814db1742184e5e6ca00e0/presentation/case_photo.jpg)
+![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/798ab46735120d5c9d8dcf407253a5132db58061/presentation/battery_case_photo.jpg)
 
 ### 3. Návrh a výroba víček
 ![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/assets/53347386/2956be94-d932-4d4f-af16-823b7012e6fd)
