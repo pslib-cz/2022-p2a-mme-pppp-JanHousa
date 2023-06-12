@@ -1,16 +1,21 @@
-# Personalised cases for micro:bit
+# Personalised case lids for micro:bit
 
 ## Introduction
-This documentation describes the design of personalized cases for the micro:bit microcontroller. The project focuses on creating cases that allow users to personalize and allow users to customize the appearance of their micro:bit.
+This documentation describes the design of personalized case lids for the micro:bit microcontroller. The project focuses on creating case lids that allow users to personalize and allow users to customize the appearance of their micro:bit.
 ![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/53c3eedb7173626aad6c0da48177d6dc600486d4/presentation/thumbnail_photo.jpg)
 
 
 ## Project description
 
 ### Function of the cases
-**Robust protection:** The cases are designed to provide robust protection for the micro:bit microcontroller. The cases are used to ensure hygiene, safety, freshness or protection from unwanted external influences.
+**Robust protection:** The case lids are designed to provide robust protection for the micro:bit microcontroller. The case lids are used to ensure hygiene, safety, freshness or protection from unwanted external influences.
 
-**Distinction:** Another function of caps as a distinction is to provide a visual indication. Lids can be made of different colours, shapes or patterns to distinguish them from other lids or to identify a certain type of content. In this way, they help consumers or users to quickly identify the correct product.
+**Distinction:** Another function of case lids as a distinction is to provide a visual indication. Lids can be made of different colours, shapes or patterns to distinguish them from other lids or to identify a certain type of content. In this way, they help consumers or users to quickly identify the correct product.
+
+## Usage
+### Connecting the case to the micro:bit
+To connect the case lid to the micro:bit microcontroller, simply place the case lid on top of the micro:bit battery case so that the case lid connects to the battery case.
+![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/45ef506cb5566cf5b5ba7c85c51335e1123be8a1/presentation/presentation_photo.jpg)
 
 ### 3. Návrh a výroba víček
 ![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/assets/53347386/2956be94-d932-4d4f-af16-823b7012e6fd)
@@ -19,7 +24,7 @@ Víčka jsou navržena tak, aby byla kompatibilní s mikrokontrolérem micro:bit
 
 Pro výrobu víček jsou použity 3D tiskárny, které zajistí rychlou a přesnou výrobu jednotlivých dílů. Každé víčko je pouze jedna součástka bez dalších rozšíření.
 
-## Použití
+
 
 ### Připojení víčka k micro:bitu
 Pro připojení víčka k mikrokontroléru micro:bit postačuje nasazení víčka na horní část micro:bitu tak, aby se víčko spojilo s Battery Case.
