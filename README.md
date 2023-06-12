@@ -17,26 +17,13 @@ This documentation describes the design of personalized case lids for the micro:
 To connect the case lid to the micro:bit microcontroller, simply place the case lid on top of the [micro:bit battery case](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/battery_case) so that the case lid connects to the battery case.
 ![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/798ab46735120d5c9d8dcf407253a5132db58061/presentation/battery_case_photo.jpg)
 
-### 3. Návrh a výroba víček
-![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/assets/53347386/2956be94-d932-4d4f-af16-823b7012e6fd)
 
-Víčka jsou navržena tak, aby byla kompatibilní s mikrokontrolérem micro:bit a umožňovala snadné připojení a odpojení. Víčka jsou vyrobená z odolného materiálu a budou esteticky přitažlivá.
+## 3D Print
+**1. Download files (STL):** You can find them [here](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/print_STL).
 
-Pro výrobu víček jsou použity 3D tiskárny, které zajistí rychlou a přesnou výrobu jednotlivých dílů. Každé víčko je pouze jedna součástka bez dalších rozšíření.
+**2. Insertion into the slicer:** Set the print fill rate to 20%.
 
-
-
-### Připojení víčka k micro:bitu
-Pro připojení víčka k mikrokontroléru micro:bit postačuje nasazení víčka na horní část micro:bitu tak, aby se víčko spojilo s Battery Case.
-
-## Postup realizace
-**1. Stáhnutí souborů (SLDPRT):** Začněte tím, že si stáhnete požadované soubory ve formátu SLDPRT. Tyto soubory by měly obsahovat 3D modely víček, které chcete vytisknout. Můžete je nalézt [zde](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/sldprt%20realizace).
-
-**2. Vložení do sliceru:** Slicer je software, který převede vaše 3D modely do instrukcí po vrstvách pro 3D tiskárnu. Otevřete svůj slicer software a naimportujte soubory SLDPRT do programu. Nastavte požadované parametry, jako je rozlišení tisku, tloušťka vrstvy, infill (výplň) a podobně. Slicer vytvoří G-kód, což je sada instrukcí pro 3D tiskárnu, jak tisknout váš objekt.
-
-**3. 3D tisk:** Poté, co máte vygenerovaný G-kód ze sliceru, připojte svou 3D tiskárnu k počítači nebo použijte paměťovou kartu nebo jiné médium, na které můžete uložit G-kód. Na tiskárně vyberte soubor nebo načtěte G-kód a spusťte tisk. Tiskárna začne postupně vrstvu po vrstvě vytvářet váš objekt podle instrukcí z G-kódu.
-Výplň tisku nastavíme na 20%.
-Tisk jednoho víčka by při správném nastavení měl trvat přibližně 30-45 minut.
+**3. Printing:** Printing one case lid should take approximately 30-45 minutes if set up correctly.
 
 ## Závěr
 
