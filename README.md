@@ -25,6 +25,11 @@ To connect the case lid to the micro:bit microcontroller, simply place the case 
 
 **3. Printing:** Printing one case lid should take approximately 30-45 minutes if set up correctly.
 
+## Used references
+The [BLOXAT font](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/font) was used in this project.
+The battery case used in this project is a modified version of the [UOB battery case](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/battery_case).
+[SOLIDWORKS software](https://www.solidworks.com/) was used to design the case lids.
+
 ## Conclusion
 
 Personalized caps for the micro:bit microcontroller provide users with the ability to customize and extend the functionality of their micro:bit. The project is based on easy to connect caps and allows users to create and experiment with the micro:bit microcontroller.
