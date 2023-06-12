@@ -21,10 +21,10 @@ To connect the case lid to the micro:bit microcontroller, simply place the case 
 ## 3D Print
 **1. Download files (STL):** You can find them [here](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/print_STL).
 
-**2. Insertion into the slicer:** Set the print fill rate to 20%.
+**2. Insertion into the slicer:** Set the color layer distribution, it is recommended to use two contrasting colors per case lid. Set the print fill rate to 20%. 
 
 **3. Printing:** Printing one case lid should take approximately 30-45 minutes if set up correctly.
 
-## Závěr
+## Conclusion
 
-Personalizovaná víčka pro mikrokontrolér micro:bit přinášejí uživatelům možnost přizpůsobit a rozšířit funkčnost jejich micro:bitu. Projekt je založen na snadném připojení víček a umožňuje uživatelům tvořit a experimentovat s mikrokontrolérem micro:bit.
+Personalized caps for the micro:bit microcontroller provide users with the ability to customize and extend the functionality of their micro:bit. The project is based on easy to connect caps and allows users to create and experiment with the micro:bit microcontroller.
