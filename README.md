@@ -1,7 +1,7 @@
 # Personalizovaná víčka pro micro:bit
 
 ## Úvod
-![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/eb17e559d90c7d5dd7cf6ca873279c7a20e919ed/presentation/20230612_173855.jpg)
+![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/3110de13ccb0cedf619e332f4c83f2f5016c5261/presentation/thumbnail_photo.jpg)
 
 Tato dokumentace popisuje projekt personalizovaných víček pro mikrokontrolér micro:bit. Projekt se zaměřuje na vytvoření víček, která umožní uživatelům personalizovat a rozšířit funkčnost jejich micro:bitu.
 
