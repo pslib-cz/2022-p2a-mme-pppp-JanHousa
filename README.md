@@ -3,7 +3,7 @@
 ## Úvod
 ![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/53c3eedb7173626aad6c0da48177d6dc600486d4/presentation/thumbnail_photo.jpg)
 
-Tato dokumentace popisuje projekt personalizovaných víček pro mikrokontrolér micro:bit. Projekt se zaměřuje na vytvoření víček, která umožní uživatelům personalizovat a rozšířit funkčnost jejich micro:bitu.
+This documentation describes the design of personalized cases for the micro:bit microcontroller. The project focuses on creating cases that allow users to personalize and extend the functionality of their micro:bit.
 
 ## Popis projektu
 
