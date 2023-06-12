@@ -7,10 +7,7 @@ This documentation describes the design of personalized cases for the micro:bit 
 
 ## Project description
 
-### 1. Project goal
-Cílem projektu je vytvořit personalizovaná víčka, která se umístí na mikrokontrolér micro:bit a umožní uživatelům přizpůsobit vzhled a funkčnost svého micro:bitu.
-
-### 2. Function of the cases
+### Function of the cases
 **Robust protection:** The cases are designed to provide robust protection for the micro:bit microcontroller. The cases are used to ensure hygiene, safety, freshness or protection from unwanted external influences.
 
 **Distinction:** Another function of caps as a distinction is to provide a visual indication. Lids can be made of different colours, shapes or patterns to distinguish them from other lids or to identify a certain type of content. In this way, they help consumers or users to quickly identify the correct product.
