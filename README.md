@@ -7,13 +7,13 @@ This documentation describes the design of personalized cases for the micro:bit 
 
 ## Project description
 
-### Project goal
+### 1. Project goal
 Cílem projektu je vytvořit personalizovaná víčka, která se umístí na mikrokontrolér micro:bit a umožní uživatelům přizpůsobit vzhled a funkčnost svého micro:bitu.
 
-### 2. Funkce víček
-**Robustní ochrana:** Víčka jsou navržena tak, aby poskytovala robustní ochranu pro mikrokontrolér micro:bit. Víčka jsou používána k zajištění hygieny, bezpečnosti, čerstvosti nebo ochrany před nežádoucími vnějšími vlivy.
+### 2. Function of the cases
+**Robust protection:** The cases are designed to provide robust protection for the micro:bit microcontroller. The cases are used to ensure hygiene, safety, freshness or protection from unwanted external influences.
 
-**Odlišení:** Další funkcí víček jako odlišení je poskytovat vizuální indikaci. Víčka mohou být vyrobená z různých barev, tvarů nebo vzorů, aby se odlišily od jiných víček nebo identifikovaly určitý druh obsahu. Tímto způsobem pomáhají spotřebitelům nebo uživatelům rychle rozpoznat správný produkt.
+**Distinction:** Another function of caps as a distinction is to provide a visual indication. Lids can be made of different colours, shapes or patterns to distinguish them from other lids or to identify a certain type of content. In this way, they help consumers or users to quickly identify the correct product.
 
 ### 3. Návrh a výroba víček
 ![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/assets/53347386/2956be94-d932-4d4f-af16-823b7012e6fd)
