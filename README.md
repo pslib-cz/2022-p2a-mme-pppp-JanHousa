@@ -1,13 +1,13 @@
-# Personalizovaná víčka pro micro:bit
+# Personalised cases for micro:bit
 
-## Úvod
+## Introduction
 ![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/53c3eedb7173626aad6c0da48177d6dc600486d4/presentation/thumbnail_photo.jpg)
 
-This documentation describes the design of personalized cases for the micro:bit microcontroller. The project focuses on creating cases that allow users to personalize and extend the functionality of their micro:bit.
+This documentation describes the design of personalized cases for the micro:bit microcontroller. The project focuses on creating cases that allow users to personalize and allow users to customize the appearance of their micro:bit.
 
-## Popis projektu
+## Project description
 
-### 1. Cíl projektu
+### Project goal
 Cílem projektu je vytvořit personalizovaná víčka, která se umístí na mikrokontrolér micro:bit a umožní uživatelům přizpůsobit vzhled a funkčnost svého micro:bitu.
 
 ### 2. Funkce víček
