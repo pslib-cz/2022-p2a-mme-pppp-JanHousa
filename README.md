@@ -2,6 +2,7 @@
 
 ## Introduction
 This documentation describes the design of personalized case lids for the micro:bit microcontroller. The project focuses on creating case lids that allow users to personalize and allow users to customize the appearance of their micro:bit.
+
 ![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/53c3eedb7173626aad6c0da48177d6dc600486d4/presentation/thumbnail_photo.jpg)
 
 
@@ -15,6 +16,7 @@ This documentation describes the design of personalized case lids for the micro:
 ## Usage
 ### Connecting the case to the micro:bit
 To connect the case lid to the micro:bit microcontroller, simply place the case lid on top of the [micro:bit battery case](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/tree/main/battery_case) so that the case lid connects to the battery case.
+
 ![foto](https://github.com/pslib-cz/2022-p2a-mme-pppp-JanHousa/blob/798ab46735120d5c9d8dcf407253a5132db58061/presentation/battery_case_photo.jpg)
 
 
